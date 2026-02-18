@@ -6,7 +6,7 @@
     },
     {
         "id": "BANNER_WARN_1002",
-        "message": "Netskope has retired the **Transaction Event Streaming** solution (based on Google Pub/Sub Lite) by **December 31, 2025**, and transitioning to our next-generation log delivery platform: **Netskope Log Streaming**. This is based on Google's plan to deprecate Pub/Sub Lite. CE (from v5.1.2) supports Log Streaming workflow through the following plugins, [AWS LogStreaming Plugin for Log Shipper](https://docs.netskope.com/en/aws-logstreaming-plugin-for-log-shipper) and [Azure LogStreaming Plugin for Log Shipper](https://docs.netskope.com/en/azure-logstreaming-plugin-for-log-shipper). Please refer to [Netskope Product EOL/EOS Announcements - Netskope Knowledge Portal](https://docs.netskope.com/en/netskope-product-eol-announcements) for more details.",
+        "message": "Netskope has retired the **Transaction Event Streaming** solution (based on Google Pub/Sub Lite) on **December 31, 2025**, and transitioning to our next-generation log delivery platform: **Netskope Log Streaming**. This is based on Google's plan to deprecate Pub/Sub Lite. CE (from v5.1.2) supports Log Streaming workflow through the following plugins, [AWS LogStreaming Plugin for Log Shipper](https://docs.netskope.com/en/aws-logstreaming-plugin-for-log-shipper) and [Azure LogStreaming Plugin for Log Shipper](https://docs.netskope.com/en/azure-logstreaming-plugin-for-log-shipper). Please refer to [Netskope Product EOL/EOS Announcements - Netskope Knowledge Portal](https://docs.netskope.com/en/netskope-product-eol-announcements) for more details.",
         "type": "banner_warn"
     },
     {
